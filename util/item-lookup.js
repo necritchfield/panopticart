@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = '79bfe399a5fc48a1a6a196bfe748f1b47379a17f7836a8e479a6054cf4fb2c2e';
+const API_KEY = 'xxx';
 const PRODUCT_API_URL = 'https://go-upc.com/api/v1/code/'
 
 export async function getItemInfo(upc) {
